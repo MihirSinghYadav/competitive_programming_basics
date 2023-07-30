@@ -1,0 +1,49 @@
+Standard Template Library:
+1. Containers
+2. Iterators
+3. Algorithms
+4. Functor
+
+Containers:
+1. Sequential:
+    -vector
+    -stack
+    -queue
+    -pair (not a Container)
+
+2. Unordered:
+    -unordered map
+    -unordered set
+
+3. Ordered:
+    -maps
+    -multi map
+    -multi set
+
+Nested Containers:
+-vector<vector<int>>
+-map<int,vector<int>>
+-set<pair<int,string>>
+-vector<map<int,set<int>>>
+
+Iterators:
+-point to memory address of containers
+-begin(), end()
+-vector<int>::iterator it;
+-continuity for containers
+
+Algorithms:
+-upper_bound
+-lower_bound
+-sort (comparator)
+-max_element
+-min_element
+-accumulate
+-reverse
+-count
+-find
+-next_permutations
+-prev_permutations
+
+Functor:
+-classes which act as functions
