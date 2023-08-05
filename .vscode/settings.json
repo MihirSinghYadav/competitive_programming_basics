@@ -54,5 +54,9 @@
     "xstddef": "cpp",
     "xstring": "cpp",
     "xutility": "cpp"
-  }
+  },
+  "cSpell.words": [
+    "Bitonic",
+    "Bogo"
+  ]
 }
