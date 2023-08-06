@@ -1,0 +1,20 @@
+Maths and Number Theory
+Modular Arithmetic
+Binary Numbers
+    -Signed/Unsigned Binary Number
+    -Set/Unset BITS
+    -BIT Manipulation
+    -BIT Masking
+    -Subset Generation
+GCD using Euclid's Method
+Binary Exponentiation
+    -(A^B)%M
+    -Inverse of a num (Fermet Theorem)
+    -Large Exp. (When A and B in (A^B)%M are Very Large)
+Prime Numbers and Divisors
+    -Sieve Algorithm
+    -Greatest/Lowest Common Divisors
+    -Prime Calculations
+    -Prime Factorization
+Extended Euclid's Algorithm
+Miller Rabin Algorithm
