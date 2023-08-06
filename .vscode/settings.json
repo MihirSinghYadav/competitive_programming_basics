@@ -53,7 +53,8 @@
     "xmemory": "cpp",
     "xstddef": "cpp",
     "xstring": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "bitset": "cpp"
   },
   "cSpell.words": [
     "Bitonic",
