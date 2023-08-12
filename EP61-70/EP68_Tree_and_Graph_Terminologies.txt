@@ -1,0 +1,47 @@
+Trees and Graph Terminologies:
+
+Graph: A graph is a data structure that consists of the following two components:
+1. A finite set of vertices also called as nodes.
+2. A finite set of ordered pair of the form (u, v) called as edge.
+The pair is ordered because (u, v) is not same as (v, u) in case of a directed graph(di-graph).
+The pair of the form (u, v) indicates that there is an edge from vertex u to vertex v.
+The edges may contain weight/value/cost.
+
+Graphs are used to represent many real-life applications: Graphs are used to represent networks.
+Types of Graphs:
+1. Directed Graphs: A graph in which all the edges are unidirectional is called a directed graph.
+2. Undirected Graphs: A graph in which all the edges are bi-directional is called an undirected graph.
+3. Weighted Graphs: A graph with weights assigned to each edge is called a weighted graph.
+4. Unweighted Graphs: A graph with no weights assigned to each edge is called an unweighted graph.
+5. Cyclic Graphs: A graph that has at least one cycle is called a cyclic graph.
+6. Acyclic Graphs: A graph that has no cycles is called an acyclic graph.
+7. Connected Graphs: A graph in which each node can be reached from all other nodes is called a connected graph.
+8. Disconnected Graphs: A graph in which some nodes can not be reached from other nodes is called a disconnected graph.
+9. Complete Graphs: A graph in which each node is connected to every other node is called a complete graph.
+10. Sparse Graphs: A graph in which very few edges are present is called a sparse graph.
+11. Dense Graphs: A graph in which most of the edges are present is called a dense graph.
+12. Bipartite Graphs: A graph whose nodes can be divided into two independent sets U and V,
+    such that every edge (u, v) either connects a node from U to V or a node from V to U.
+13. Strongly Connected Graphs: A directed graph is called strongly connected,
+    if there is a path from each vertex in the graph to every other vertex.
+14.Connected Graph: A graph is said to be connected if every pair of vertices in the graph is connected.
+
+Tree: A tree is a special type of graph in which no cycle is formed.
+A tree is an undirected graph in which any two vertices are connected by only one path.
+Vertex: The data object that can have zero or more adjacent vertices is called a vertex.
+Edge: The connection between two vertices is called an edge.
+Root: The root of a tree is the node with no parents.
+Parent: Any node except the root node has one edge upward to a node called parent.
+Child: The node below a given node connected by its edge downward is called its child node.
+Leaf: The node which does not have any child node is called the leaf node.
+Subtree: Subtree represents the descendants of a node.
+Visiting: Visiting refers to checking the value of a node when control is on the node.
+Traversing: Traversing means passing through nodes in a specific order.
+Height of a Node: The height of a node is the number of edges from the node to the deepest leaf,
+    (ie. the longest path from the node to a leaf node).
+Depth of a Node: The depth of a node is the number of edges from the root to the node.
+Height of a Tree: The height of a Tree is the height of the root node or the depth of the deepest node.
+Depth of a Tree: The depth of a Tree is the depth of the root node or the depth of the deepest node.
+Lowest common ancestor: Let T be a rooted tree with n nodes.
+The lowest common ancestor between two nodes n1 and n2 is defined as 
+    the lowest node in T that has both n1 and n2 as descendants
