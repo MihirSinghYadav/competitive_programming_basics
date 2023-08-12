@@ -1,0 +1,19 @@
+Graph and Trees:
+
+Representation:
+    -Matrix
+    -List:
+        -Arrays of vectors
+        -Vectors of vectors
+
+Traversal:
+    -DFS (Depth First Search)
+    -BFS (Breadth First Search)
+
+Algorithms:
+    -Dijkstra
+    -Bellman Ford
+    -Disjoint Set Union
+    -Minimum Spanning Trees
+    -Directed Acyclic Graph
+    -Topological Sort
