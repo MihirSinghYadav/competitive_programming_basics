@@ -1,0 +1,12 @@
+Dynamic Programming:
+-Theory
+-Top Down / Bottom Up Approach
+-Recursion
+Standard Problems:
+-Coin Change
+-Edit Distance
+-Rod Cutting
+-Longest Increasing Subsequence
+-Knapsack
+    -Subset Problems
+-Longest Common Subsequence / Subset Ring
