@@ -8,6 +8,7 @@
     },
     "python.formatting.provider": "none",
     "java.project.sourcePaths": [
-        "1. Two Sum"
+        "1. Two Sum",
+        "121. Best Time to Buy and Sell Stock"
     ]
 }
