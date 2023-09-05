@@ -8,9 +8,10 @@
     },
     "python.formatting.provider": "none",
     "java.project.sourcePaths": [
+        "53. Maximum Subarray",
         "238. Product of Array Except Self",
         "121. Best Time to Buy and Sell Stock",
         "1. Two Sum",
-        "53. Maximum Subarray"
+        "152. Maximum Product Subarray"
     ]
 }
